@@ -4,8 +4,8 @@ from string import ascii_lowercase
 from colorama import Fore, Style
 
 
-class SendSms():
-    adet = 0
+class SendSms():+90 (539) 714 58 37
+    adet = 1000
     
     def __init__(self, phone, mail):
         rakam = []
